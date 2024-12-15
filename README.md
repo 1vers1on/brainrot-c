@@ -1,13 +1,14 @@
 # Brainrot Translator - README
 
 ## Overview
-**Brainrot Translator** is a tool for transforming C code into a humorous "Brainrot" dialect and vice versa. This utility applies token-based translation to C keywords and common identifiers, replacing them with "brainrot" equivalents. Additionally, the tool can reverse the Brainrot dialect back into valid C code.
+**Brainrot Translator** is a tool for transforming C code into a brainrot dialect and vice versa. This utility applies token-based translation to C keywords and common identifiers, replacing them with brainrot equivalents. Additionally, the tool can reverse the Brainrot dialect back into valid C code.
 
 ## Features
 - **Transform C Code to Brainrot Dialect**: Replaces C keywords and identifiers with playful equivalents.
 - **Reverse Brainrot to C Code**: Restores the original C code from its Brainrot-translated form.
 - **Syntax-Aware Formatting**: Retains proper code indentation and spacing for both transformations.
 - **Support for Preprocessor Directives and Comments**: Handles C-style comments and preprocessor directives during tokenization.
+- **Built for gen alpha**: Easily write code as a gen alpha programmer.
 
 ## Installation
 1. Clone the repository or copy the code to your local machine.
